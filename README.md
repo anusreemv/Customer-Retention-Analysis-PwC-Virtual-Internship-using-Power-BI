@@ -60,6 +60,6 @@ Based on the insights, the following recommendations were made to improve custom
 
 ## 📸 Dashboard Preview
 
-![Customer rentention Dashboard](call_center_analysis_dashboard.png)
+![Customer rentention Dashboard](churn analysis.png)
 
 ---
