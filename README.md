@@ -60,6 +60,6 @@ Based on the insights, the following recommendations were made to improve custom
 
 ## 📸 Dashboard Preview
 
-![Customer rentention Dashboard](churn analysis.png)
+![Customer rentention Dashboard](churn%20analysis.png)
 
 ---
